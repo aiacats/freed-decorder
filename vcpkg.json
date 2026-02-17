@@ -1,0 +1,15 @@
+{
+  "name": "freed-decoder",
+  "version-string": "1.0.0",
+  "description": "FreeD protocol decoder with OSC output and Dear ImGui GUI",
+  "dependencies": [
+    {
+      "name": "imgui",
+      "features": [
+        "dx11-binding",
+        "win32-binding",
+        "docking-experimental"
+      ]
+    }
+  ]
+}
