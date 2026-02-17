@@ -5,3 +5,4 @@ CMakeSettings.json
 out/
 vcpkg_installed/
 vcpkg/
+.claude/
